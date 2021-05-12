@@ -9,4 +9,4 @@ Created on Tue May  5 09:30:42 2020
 
 threes = list(range(3,31,3))
 for three in threes:
-    print(three)
+    print(three*3)
